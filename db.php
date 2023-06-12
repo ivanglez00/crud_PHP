@@ -17,9 +17,10 @@ $conn=mysqli_connect(
     'php_mysql_crud'
 );
 
+//mensaje para saber si se hizo la conexion correctamente 
 
-if(isset($conn)){
-    echo "db is disconected";
-}
+// if(isset($conn)){
+//     echo "db is disconected";
+// }
 
 ?>
